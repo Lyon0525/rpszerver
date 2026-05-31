@@ -1,0 +1,27 @@
+A. Meglévő funkciók (Modernizálva)
+Prémium Pont (PP) / Támogatás: Csomagok listázása (pl. kártyás designban).
+SimplePay Integráció: Logók, tájékoztatók modern megjelenítése.
+Beváltás folyamata: Vizuális, lépésről-lépésre (Step-by-step) útmutató.
+Kapcsolat: Új, beépített kapcsolatfelvételi űrlap (Contact Form).
+Jogi oldalak: ÁSZF és Adattovábbítási nyilatkozat (PDF letöltés és beágyazott nézet).
+B. Új "Webshop" / Prémium Tartalomjegyzék (Külön aloldalak/szekciók)
+PP Autók és Egyedi járművek (képekkel, árakkal)
+Helikopterek
+Frakciók és Egyedi frakció házak
+IC Pénz vásárlás / beváltás
+Saját ház és Saját cég igénylés
+Egyéb extrák: Aranyseprű, VIP rangok.
+C. Közösségi és Szerver Funkciók
+FiveM Szerver Státusz: Élő adat (online/offline, játékosszám).
+Discord Integráció: Discord alapú bejelentkezés (Login), illetve a szerveren lévő tagok számának/állapotának mutatása.
+Személyzet (Staff) bemutatása: Tulajdonos, Admin Controller, Fejlesztő kártyák profilképpel.
+Ranglisták: Havi FFA Top 5 lista és Top támogatók listája.
+Értékelés rendszer: Játékosok visszajelzései, csillagos értékelések (Review section).
+D. Média, Tartalom és Információ
+Bemutató (Hero szekció): Látványos kezdőképernyő a szerver fő üzenetével.
+Média integrációk: Bemutató videó beágyazása, TikTok feed, aktuális élő Streamek megjelenítése.
+Platformok (Social Media): Gombok a CFX oldalhoz, Discord, Instagram, Facebook és TikTok profilokhoz.
+Élményképek: Látványos galéria / képnézegető a szerveres RP szituációkról.
+Gyorstalpaló szekció: Útmutató kezdőknek (Hogyan csatlakozz? Mivel kezdd az RP-t?).
+Szerverszabályzat: Átlátható, harmonikázó (Accordion) listában.
+Hírek és Felhívások: Külön oldal az újdonságoknak, eventeknek.
