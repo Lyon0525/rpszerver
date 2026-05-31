@@ -1,16 +1,16 @@
 // src/App.tsx
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom'; // <-- Itt a csere
 import MainLayout from './layouts/MainLayout';
 import Home from './pages/Home';
 import Webshop from './pages/Webshop';
 import Staff from './pages/Staff';
-import Rules from './pages/Rules'; // ÚJ
-import Contact from './pages/Contact'; // ÚJ
+import Rules from './pages/Rules';
+import Contact from './pages/Contact';
 import Community from './pages/Community';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter> {/* <-- És itt is */}
       <Routes>
         <Route element={<MainLayout />}>
           <Route path="/" element={<Home />} />
@@ -21,7 +21,7 @@ function App() {
           <Route path="/community" element={<Community />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
